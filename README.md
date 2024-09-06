@@ -1,1 +1,1 @@
-*Tab Bar - Buttons
+Tab Bar - Buttons
